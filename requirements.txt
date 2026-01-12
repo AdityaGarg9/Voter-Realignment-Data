@@ -1,0 +1,6 @@
+flask
+pandas
+gunicorn
+flask-talisman
+flask-limiter
+google-cloud-storage
